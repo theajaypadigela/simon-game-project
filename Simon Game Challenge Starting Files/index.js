@@ -39,6 +39,7 @@ function clicked(e, check) {
         }, 1000);
     }
 }
+// asfljaef
 
 function generateSound(colorName) {
     $("div." + colorName).addClass("pressed");
